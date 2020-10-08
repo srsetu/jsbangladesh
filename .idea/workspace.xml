@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f27d94a4-8957-4c8e-867c-c2297af0d194" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="jsbangladesh" />
+  </component>
+  <component name="ProjectId" id="1eSMBh96LFpgPUX30CkA59zdLzu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="OPEN_URL_DIALOG">
+      <recent name="http://setu.pro" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f27d94a4-8957-4c8e-867c-c2297af0d194" name="Default Changelist" comment="" />
+      <created>1594310409028</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594310409028</updated>
+      <workItem from="1594310418136" duration="1326000" />
+      <workItem from="1594326132376" duration="260000" />
+      <workItem from="1597260883769" duration="640000" />
+      <workItem from="1597375317330" duration="997000" />
+      <workItem from="1598625409824" duration="6053000" />
+      <workItem from="1601984260521" duration="4051000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="27" key="#Deployment" timestamp="1601985752054">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="27" key="#Deployment/0.0.1366.738@0.0.1366.738" timestamp="1601985752054" />
+    <state x="92" y="92" width="1182" height="554" key="DiffContextDialog" timestamp="1601999613490">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="92" y="92" width="1182" height="554" key="DiffContextDialog/0.0.1366.738@0.0.1366.738" timestamp="1601999613490" />
+    <state x="463" y="124" key="FileChooserDialogImpl" timestamp="1601984359421">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="124" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1601984359421" />
+    <state x="545" y="268" key="WebDeployment.AddServerDialog.v.1" timestamp="1601985653150">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="545" y="268" key="WebDeployment.AddServerDialog.v.1/0.0.1366.738@0.0.1366.738" timestamp="1601985653150" />
+    <state x="466" y="249" key="com.intellij.ide.util.TipDialog" timestamp="1602167022488">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="466" y="249" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1602167022488" />
+    <state x="2386" y="249" key="com.intellij.ide.util.TipDialog/0.0.1920.1050/1920.0.1366.738@0.0.1920.1050" timestamp="1598625473737" />
+    <state x="2386" y="249" key="com.intellij.ide.util.TipDialog/0.0.1920.1050/1920.0.1366.738@1920.0.1366.738" timestamp="1597375319073" />
+    <state x="655" y="364" key="com.intellij.ide.util.TipDialog/0.0.1920.1080/1920.0.1366.768@0.0.1920.1080" timestamp="1594326132901" />
+    <state x="497" y="99" key="ftp.server.browser" timestamp="1601985706067">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="497" y="99" key="ftp.server.browser/0.0.1366.738@0.0.1366.738" timestamp="1601985706067" />
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1601984594406">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1601984594406" />
+  </component>
+</project>

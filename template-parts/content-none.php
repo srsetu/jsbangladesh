@@ -1,0 +1,1 @@
+<p><?php esc_html_e( '404, Page not found', 'jsbangladesh' ); ?></p>
